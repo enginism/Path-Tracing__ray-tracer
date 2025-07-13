@@ -1,6 +1,6 @@
 # Path-Tracing__ray-tracer
 
-**This project got 1st at Computer Graphics Course @ SNU, 2025 Spring** | Taught by Prof. [Jehee Lee](https://scholar.google.com/citations?user=YHlvUsAAAAAJ&hl=en)
+**This project got 1st at Computer Graphics Course @ SNU, 2025 Spring**  |  Taught by Prof. [Jehee Lee](https://scholar.google.com/citations?user=YHlvUsAAAAAJ&hl=en)
 <table>
 <tr>
 
