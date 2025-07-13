@@ -8,7 +8,7 @@ from core.camera import Camera
 
 
 class CustomSceneBuilder:
-    """당신의 실제 코넬박스를 재현하는 빌더 (굴절 재질 포함)"""
+    """내 실제 코넬박스를 재현하는 빌더 (굴절 재질 포함)"""
 
     def __init__(self):
         # 실제 치수 (cm 단위)
