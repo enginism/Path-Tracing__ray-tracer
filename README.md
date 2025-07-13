@@ -1,5 +1,6 @@
 # Path-Tracing__ray-tracer
 
+This project got 1st at Computer Graphics Course @ SNU, 2025 Spring
 <table>
 <tr>
 <td width="50%">
