@@ -121,7 +121,7 @@ def main():
     try:
         image.show()
     except:
-        print("이미지 표시 불가 (GUI 환경이 아닐 수 있음)")
+        print("이미지 표시 불가")
 
 
 if __name__ == "__main__":
