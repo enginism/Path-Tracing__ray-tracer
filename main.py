@@ -77,7 +77,7 @@ def main():
     print(f"지원 기능: {', '.join(renderer.get_capabilities())}")
 
     # 렌더링 방식에 따른 예상 시간 안내
-    if args.renderer == 'cuda_path_raytracer':  # ✅ 원하는 이름으로 수정
+    if args.renderer == 'cuda_path_raytracer':  
         estimated_time = (effective_samples / 64) * 15  # 64 샘플 기준 약 15초
         print(f"예상 렌더링 시간: 약 {estimated_time:.0f}초 (Global Illumination)")
     elif 'cuda' in args.renderer:
@@ -101,7 +101,7 @@ def main():
     print(f"총 실행 시간: {minutes}분 {seconds:.2f}초")
 
     # 성능 분석
-    if args.renderer == 'cuda_path_raytracer':  # ✅ 원하는 이름으로 수정
+    if args.renderer == 'cuda_path_raytracer':  
         rays_per_pixel = effective_samples * args.depth
         total_rays = args.width * args.height * rays_per_pixel
         rays_per_second = total_rays / elapsed
@@ -126,3 +126,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
