@@ -4,7 +4,7 @@
 
 
 <img width="100%" alt="output_PathTracing" src="https://github.com/user-attachments/assets/84334c79-8a31-4a5c-9299-d0feb519ac7f" />
-<p>Rendered By Path Tracer upon CUDA ( took 6min, RTX2070 Super )<br>
+<p>Rendered By Path Tracer upon CUDA ( took 6min on RTX2070 Super )<br>
 - Caustics observed...</p>
 
 
